@@ -71,6 +71,7 @@
       "zoneHeight": 9,
       "zoneWidth": 9,
       "map": {
+        "dimensions": [ 27, 27, 1, ],
         "palette": [
           [ "user.sjrd.railways.Railways:railsCreator:rails5", "com.funlabyrinthe.mazes.Mazes:noEffect", "com.funlabyrinthe.mazes.Mazes:noTool", "com.funlabyrinthe.mazes.Mazes:noObstacle", ],
           [ "user.sjrd.railways.Railways:railsCreator:rails1", "com.funlabyrinthe.mazes.Mazes:noEffect", "com.funlabyrinthe.mazes.Mazes:noTool", "com.funlabyrinthe.mazes.Mazes:noObstacle", ],
